@@ -1,10 +1,10 @@
 # golearn
-***
+
 cap可用于channel/array/slice 不可用于map
+---
 
-
-***
 Key的类型可以是:
+---
 - 布尔值
 - 数字
 - 字符串
